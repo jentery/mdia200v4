@@ -96,7 +96,7 @@ I am asking you to complete five assignments this term.
 2. **[Worksheet 2](https://jentery.github.io/mdia200v4/worksheet2.html)**: 20% of your final grade (due by Thursday, February 13th, at 10am). 
 3. **[Worksheet 3](https://jentery.github.io/mdia200v4/worksheet3.html)**: 20% of your final grade (due by Monday, March 17th, at 10am).
 4. **[Worksheet 4](https://jentery.github.io/mdia200v4/worksheet4.html)**: 15% of your final grade (due by Thursday, April 3rd, at 10am). 
-5. **[Portfolio](https://jentery.github.io/mdia200v4/portfolio.html)**: 25% of your final grade (due Monday, April 14th, at 10am.). 
+5. **[Portfolio](https://jentery.github.io/mdia200v4/portfolio.html)**: 25% of your final grade (due Monday, April 14th, at 10am). 
 
 *Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). A worksheet will never contain more than five prompts, and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
 
