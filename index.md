@@ -390,7 +390,7 @@ I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/
 
 All assignments should be submitted via Brightspace. I cannot accept worksheets or the portfolio via email. 
 
-I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. Please also note that Maya and I will mark assignments in this course. 
+I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. Note that Maya and I will mark assignments in this course. 
 
 Throughout the term, I'll request feedback from you on how the course is going. I'll also ask you to complete course experience surveys at the end of the term. 
 
@@ -398,7 +398,7 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every worksheet in this course. A late penalty of five points per business day will apply after 24 hours. Weekends and holidays do not count as business days. 
 
-I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio more than three days after it is due.
+I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio after Thursday, April 17th at 5pm.
 
 Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
 
