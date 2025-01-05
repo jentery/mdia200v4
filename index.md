@@ -396,7 +396,7 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 ### Late Submissions and Extensions
 
-I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every worksheet in this course. A late penalty of five points per business day will apply after 24 hours. I do not consider weekends or holidays to be business days. 
+I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every worksheet in this course. A late penalty of five points per business day will apply after 24 hours. Weekends and holidays do not count as business days. 
 
 I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio more than three days after it is due.
 
