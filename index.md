@@ -366,7 +366,7 @@ The following student groups may be relevant to your life as a student here at U
 * [The Students of Colour Collective](https://soccollective.com/), 
 * [The Society for Students with a Disability (SSD)](https://uvicssd.ca/), 
 * [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/), and 
-* [UVic Pride Collective](https://pridecollective.ca/).
+* [UVSS Pride Collective](https://pridecollective.ca/).
 
 # Policies 
 
