@@ -404,7 +404,7 @@ Please email me if you need an extension for any assignment, and we can discuss 
 
 ### Attendance and Participation
 
-There is no participation or attendance mark in this course; however, it is driven by class discussion and workshops, which are difficult to record or "capture." 
+There is no participation or attendance mark in this course; however, every class session will rely heavily on discussion and interaction. 
 
 I will assume you are attending each class meeting. If you are unable to attend a particular meeting, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. 
 
