@@ -444,7 +444,7 @@ UVic is committed to promoting a safe, respectful and supportive learning, livin
 
 ### Non-Academic Student Conduct 
 
-UVic's [Non-Academic Misconduct Allegations policy](https://www.uvic.ca/services/studentlife/student-conduct/non-academic-misconduct/index.php?utm_medium=redirect&utm_source=namc&utm_campaign=redirect-usage) (AC1300) clarifies what non-academic student misconduct is; details how the university responds to non-academic misconduct allegations; outlines the review and investigation processes; describes possible outcomes and ensures that when misconduct is found to have occurred, any sanctions that are applied are fair and consistent; and, explains how to appeal a decision that has been made under the policy
+UVic's [Non-Academic Misconduct Allegations policy](https://www.uvic.ca/services/studentlife/student-conduct/non-academic-misconduct/index.php?utm_medium=redirect&utm_source=namc&utm_campaign=redirect-usage) (AC1300) clarifies what non-academic student misconduct is; details how the university responds to non-academic misconduct allegations; outlines the review and investigation processes; describes possible outcomes and ensures that when misconduct is found to have occurred, any sanctions that are applied are fair and consistent; and, explains how to appeal a decision that has been made under the policy.
 
 ### Academic Integrity  
 
