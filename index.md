@@ -106,7 +106,7 @@ I am asking you to complete five assignments this term.
 
 *Feedback*: We will provide brief and focused feedback on worksheets according to grading rubrics. Please email me (Jentery, not Maya) or schedule an appointment (F2F or Zoom) to discuss my feedback. Again, I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
 
-*Workshop*: Worksheet 4 will ask you to register for a workshop in UVic Libraries, attend it, and document what you did and learned. I will circulate a signup sheet for the workshops in September.
+*Workshop*: Worksheet 4 will ask you to register for a workshop in UVic Libraries, attend it, and document what you did and learned. I will circulate a signup sheet for the workshops in January.
 
 # Workload
 
