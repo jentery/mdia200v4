@@ -45,11 +45,11 @@ Some prompts ask you to create media. Please attach your audio, image, or video 
 
 I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess your responses. 
 
-* 23-25 points (exceeds all expectations of the prompt): the response is compelling; it addresses the prompt and applies course terminology; it enhances the course material, including lectures, handouts, class discussions, and assigned primary sources; the use of examples is clear, focused, convincing, and inventive (original insight)
-* 20-22 points (exceeds some or most expectations of the prompt): the response is compelling; it addresses the prompt and applies course terminology; it corresponds with the course material, including lectures, handouts, class discussions, and assigned primary sources; the use of examples is clear, focused, and convincing 
-* 18-19 points (meets the expectations of the prompt): the response addresses the prompt and applies course terminology; it corresponds with the course material, including lectures, handouts, class discussions, and assigned primary sources; the use of examples is often convincing but may warrant some clarification
+* 22.5-25 points (exceeds all expectations of the prompt): the response is compelling; it addresses the prompt and applies course terminology; it enhances the course material, including lectures, handouts, class discussions, and assigned primary sources; the use of examples is clear, focused, convincing, and inventive (original insight)
+* 19.5-22 points (exceeds some or most expectations of the prompt): the response is compelling; it addresses the prompt and applies course terminology; it corresponds with the course material, including lectures, handouts, class discussions, and assigned primary sources; the use of examples is clear, focused, and convincing 
+* 17.5-19 points (meets or mostly meets the expectations of the prompt): the response addresses the prompt and applies course terminology; it corresponds with the course material, including lectures, handouts, class discussions, and assigned primary sources; the use of examples is often convincing but may warrant some clarification
 * 15-17 points (meets some expectations of the prompt): the response addresses some of the prompt and applies some course terminology; it corresponds with some of the course material, including lectures, handouts, class discussions, and assigned primary sources; the use of examples warrants some clarification
-* 1-14 points (does not meet the expectations of the prompt): the response does not correspond much, if at all, with the course material or the prompt
+* 1-14.5 points (does not meet the expectations of the prompt): the response does not correspond much, if at all, with the course material or the prompt
 * 0 points: no response  
 
 1 point will be deducted for every 25 words over the prescribed word count. 
