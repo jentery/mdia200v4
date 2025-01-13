@@ -72,7 +72,7 @@ Please do not forget to cite any material from which you draw ideas or examples.
 
 ## What to Submit 
 
-Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and references along with any media you were prompted to attach or embed. 
+Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and references along with any media files you were prompted to attach or embed. 
 
 ## When to Submit It
 
