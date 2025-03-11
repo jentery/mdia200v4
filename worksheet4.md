@@ -21,7 +21,7 @@ Please [download the worksheet](mdia200v4Worksheet4.docx) (DOCX format) to compl
 
 ## Format
 
-This open-book worksheet contains *five* prompts. You should respond to *four* of them, and Prompt 5 is required. If you respond to all five, then I will mark the first four. 
+This open-book worksheet contains *five* prompts. You should respond to *four* of them, and *Prompt 5 is required*. 
 
 Each response is worth 25 points for a total of 100 points. 
 
@@ -29,7 +29,7 @@ Some prompts ask you to create media. Please attach your audio, image, or video 
 
 ## The Five Prompts (Select Four; Prompt 5 Is Required)
 
-**Prompt 1**. Identify a UVic program or community where you'd like to see change. Now, create a poster to appeal for that change. The poster should include text and images, and it should make three different types of rhetorical appeals. Then use no more than 350 words, including terminology from the "Persuasion" handout and "Media" and "Communication" modules, to: 1) identify the program or community to whom you're appealing, 2) describe the three types of rhetorical appeal(s) you're making for change, 3) describe the problem motivating the change you wish to see, 4) identify who would be affected most by the change, and 5) explain what you think it would take to convince the program or community to make the change. Don't forget to attach your poster to your response.
+**Prompt 1**. Identify a UVic program or community where you'd like to see change. Now, create a poster to appeal for that change. The poster should include text and images, and it should make three types of rhetorical appeals. Then use no more than 350 words, including terminology from the ["Persuasion"](https://bright.uvic.ca/d2l/le/lessons/365831/topics/3231647) handout and "Media" and "Communication" modules, to: 1) identify the program or community to whom you're appealing, 2) describe the three types of rhetorical appeal(s) you're making for change, 3) describe the problem motivating the change you wish to see, 4) identify whom would be affected most by the change, and 5) explain what you think it would take for the program or community to make the change. Don't forget to attach your poster to your response.
 
 **Prompt 2**. Use an image to index a moment when a fictitious character in a TV show, web series, or similar format helped you feel seen. You can create the image, find one online, or take a screen grab. Then use no more than 350 words, including terminology from the "Representation" handout and "Communication" and "Media" modules, to: 1) describe the image, 2) describe the moment you felt seen, 3) explain how the character helped you feel seen personally, 4) explain how the character helped you feel seen socially, and 5) share how frequently you feel seen in this way. Don't forget to attach your image so I can see it.
 
