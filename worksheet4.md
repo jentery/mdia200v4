@@ -74,4 +74,4 @@ Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and refere
 
 ## When to Submit It
 
-A response to Worksheet 4 is due by 10am on Thursday, April 3rd, but there is a 24-hour grace period. I will deduct five points for every business day I receive Worksheet 4 after 10am on Friday, April 4th. I will close the submission portal for Worksheet 4 at 10am on Thursday, April 17th and cannot accept any submissions after the portal is closed. I will not accept any submissions by email.
+A response to Worksheet 4 is due by 10am on Thursday, April 3rd, but there is a 24-hour grace period. I will deduct five points for every business day I receive Worksheet 4 after 10am on Friday, April 4th. I will close the submission portal at 10am on Monday, April 14th and cannot accept any submissions after the portal is closed. I will not accept any submissions by email.
