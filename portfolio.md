@@ -44,7 +44,7 @@ The degree to which your response:
 
 * Addresses the prompt. 
 * Applies course terminology, techniques, and practices to demonstrate what you know and what you learned. 
-* Contains a variety of media (such as text, images, audio, andvideo) that demonstrate what you know and what you learned.
+* Contains a variety of media (such as text, images, audio, and video) that demonstrate what you know and what you learned.
 * Communicates what you learned from media practice in this course.
 * Communicates what you learned from media analysis in this course.  
 * Synthesizes what you learned in this course. 
