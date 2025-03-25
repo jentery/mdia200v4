@@ -75,6 +75,6 @@ Ten approaches to Media Studies that we engaged in this course:
 * Semiotics (icon, index, symbol, codes, discourse) 
 * Persuasion (logos, ethos, pathos, kairos) 
 * Representation (stereotypes, identity, positionality, intersectionality)
-* Narrative (equilibrium, linear, nonlinear, environmental storytelling)
+* Narrative (equilibrium, linear and nonlinear narratives, environmental storytelling)
 * Fandom (fanwork, participatory culture, transformative work)
 * Preservation (replicating, refreshing, migration, emulation, collection)
