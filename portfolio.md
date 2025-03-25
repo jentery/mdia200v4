@@ -49,7 +49,7 @@ The degree to which your response:
 * Communicates what you learned from media analysis in this course.  
 * Synthesizes what you learned in this course. 
 * Demonstrates an awareness of your interlocutor and how you're communicating with them. 
-* Demonstrates and communicates how you might apply what you learned. 
+* Demonstrates and communicates how you might apply what you learned in this course. 
 * Makes compelling use of concrete examples across a range of what's available (over time, across topics, through various media). 
 
 ## What to Submit 
