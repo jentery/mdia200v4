@@ -32,7 +32,7 @@ Tell someone you know what you learned in this course by sharing samples of your
 * *Demonstrate your knowledge* of media by using terminology, techniques, and practices from MDIA 200 in ways your interlocutor would understand. Meet them where they are and decode things for them if need be. 
 * *Communicate your primary interests* in Media Studies by selecting *one* critical approach (see [Appendix A](#appendix-a)) we studied this term that appeals most to you. Explain that approach and its appeal but also convey their relevance to work you might do in the future. Give your interlocutor a palpable sense of how and where you could apply what you learned in MDIA 200. 
 
-Your response to this prompt should be *synthetic*. Avoid lists and point form. Construct a narrative or theme that brings the material together in a way that engage syour interlocutor on an interpersonal, one-to-one level. The response should be more about you and your learning than the course itself, and it should sound like part of a dialogue rather than an advertisement for MDIA 200. 
+Your response to this prompt should be *synthetic*. Avoid lists and point form. Construct a narrative or theme that brings the material together in a way that engages your interlocutor on an interpersonal, one-to-one level. The response should be more about you and your learning than the course itself, and it should sound like part of a dialogue rather than an advertisement for MDIA 200. 
 
 You needn't name, describe, photograph, or record your interlocutor; however, I should be able to infer *who they are to you* based on how you communicate with them in response to this prompt. Use references and language that make that relationship clear. 
 
