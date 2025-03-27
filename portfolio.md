@@ -50,7 +50,15 @@ The degree to which your response:
 * Synthesizes what you learned in this course. 
 * Demonstrates an awareness of your interlocutor and how you're communicating with them. 
 * Demonstrates and communicates how you might apply what you learned in this course. 
-* Makes compelling use of concrete examples across a range of what's available (over time, across topics, through various media). 
+* Makes compelling use of concrete examples across a range of what's available (over time, across topics, through various media).
+
+For Option 1: 5 points will be deducted for every 250 words over the prescribed word count. 
+
+For Option 2: 5 points will be deducted for every minute your video exceeds 12 minutes. 
+
+The total of these points (0-100) will constitute 25% of your final mark in this course. 
+
+*You do not need to meet the word count or 12-minute mark to earn a high grade on this assignment.* 
 
 ## What to Submit 
 
