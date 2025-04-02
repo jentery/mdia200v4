@@ -54,7 +54,7 @@ The degree to which your response:
 
 For Option 1: 5 points will be deducted for every 250 words over the prescribed word count. 
 
-For Option 2: 5 points will be deducted for every minute your video exceeds 12 minutes. 
+For Option 2: 5 points will be deducted for every minute your video or audio file exceeds 12 minutes. 
 
 The total of these points (0-100) will constitute 25% of your final mark in this course. 
 
