@@ -62,7 +62,7 @@ The total of these points (0-100) will constitute 25% of your final mark in this
 
 ## What to Submit 
 
-Please submit a DOCX, ODT, PAGES, PDF, MP4, or MOV file containing your response. You are also welcome to attach media files to your submission in Brightspace. 
+Please submit a DOCX, ODT, PAGES, PDF, MP4, MOV, MP3, and/or WAV file containing your response. You are also welcome to attach media files to your submission in Brightspace. 
 
 Do not use a platform other than Brightspace to submit, store, or share your materials. 
 
