@@ -18,7 +18,7 @@ The portfolio is *open-book*, meaning you are allowed to use handouts, the cours
 This open-book assignment contains *one* prompt, and you may respond to it in *one* of two ways: 
 
 * **Option 1**: text plus images and/or audio, using no more than 1250 words 
-* **Option 2**: 5-12 minutes of video 
+* **Option 2**: 5-12 minutes of video or audio
 
 Your response is worth 100 points and 25% of your final grade. 
 
